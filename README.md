@@ -9,7 +9,7 @@
 ### 🔧 Ferramentas Utilizadas
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,js,nodejs,react,mysql,postgresql,godot,git,github&theme=dark" alt="Ferramentas Utilizadas" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,js,react,mysql,postgresql,godot,git,github&theme=dark" alt="Ferramentas Utilizadas" />
   </a>
 </div>
 
